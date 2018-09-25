@@ -46,3 +46,10 @@ ul.posts li {
 .cb {
     font-family: monaco;
 }
+
+
+@media (max-width: 480px) {
+    body {
+        width:95%;
+    }
+}
