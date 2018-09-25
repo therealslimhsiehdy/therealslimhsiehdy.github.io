@@ -1,6 +1,7 @@
 body {
     margin: 70px auto;
-    width: 40%;
+    width: 60%;
+    max-width: 650px;
 }
 nav ul, footer ul {
     font-family:'Georgia', 'Georgia', 'Sans-Serif';
