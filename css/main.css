@@ -2,33 +2,39 @@ body {
     margin: 70px auto;
     width: 60%;
     max-width: 650px;
+    font-family: 'Crimson Text', serif;
 }
+
 nav ul, footer ul {
-    font-family:'Georgia', 'Georgia', 'Sans-Serif';
     padding: 0.5px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
-    font-family:'Georgia', 'Georgia', 'Sans-Serif';
 }
+
 p {
     font-size: 0.92em;
     line-height: 1.2;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
